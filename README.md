@@ -7,7 +7,6 @@ Developed using HTML, CSS, and JavaScript, this clone focuses on replicating Spo
 - User Interface: The application mirrors Spotify's design, providing users with a familiar and intuitive layout.​
 
 - Music Playback: Users can browse and play music tracks, simulating the experience of using the actual Spotify platform.​
-- honeytyagii.github.io
 
 - Responsive Design: The application is designed to be responsive, ensuring usability across various devices and screen sizes.​
 
